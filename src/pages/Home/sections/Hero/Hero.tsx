@@ -2,7 +2,6 @@ import { Box, Container, Grid, Typography, styled } from "@mui/material"
 import avatar from "../../../../assets/images/avatar.jpg"
 import DownloadIcon from '@mui/icons-material/Download';
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
-import theme from "../../../../theme";
 import StyledButton from "../../../../components/StyledButton/StyledButton";
 import { AnimatedBackground } from "../../../../AnimatedBackground/AnimatedBackground";
 
